@@ -149,11 +149,8 @@ This takes less than a minute and writes the figures to `figures/`.
 ## References
 
 1. B. Engquist and A. Majda, "Absorbing boundary conditions for the numerical
-   simulation of waves", *Proceedings of the National Academy of Sciences*
-   74(5), 1765–1766, 1977.
-2. B. Engquist and A. Majda, "Absorbing boundary conditions for the numerical
    simulation of waves", *Mathematics of Computation* 31(139), 629–651, 1977.
-3. G. Mur, "Absorbing boundary conditions for the finite-difference
+2. G. Mur, "Absorbing boundary conditions for the finite-difference
    approximation of the time-domain electromagnetic-field equations",
    *IEEE Transactions on Electromagnetic Compatibility* EMC-23(4), 377–382, 1981.
 
