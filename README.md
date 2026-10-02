@@ -19,8 +19,8 @@ second-order absorbing condition, the wave leaves the domain.*
 This was a project in the course *Partial Differential Equations and the Finite
 Element Method* at Karlstad University, Sweden (report dated 12 January 2024).
 During my practical placement I had introduced an artificial boundary in a
-model, and the examiner, Prof. Eddie Wadbro, proposed this project on how to
-handle such boundaries without artificial reflections.
+model, and the examiner, [Prof. Eddie Wadbro](https://www.kau.se/en/employees/eddie-wadbro), 
+proposed this project on how to handle such boundaries without artificial reflections.
 
 The original 2024 work is kept in [`original-2024/`](original-2024). This
 repository adds a revised 2026 version in [`modified-2026/`](modified-2026);
